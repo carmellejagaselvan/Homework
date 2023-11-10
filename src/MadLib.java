@@ -1,6 +1,6 @@
 public class MadLib {
 
-    public String classmate = "Sasha";
+    public String classmate = "Katelyn";
     public String city = "New York";
     public String noun = "laptop";
     public String adjective = "sad";
